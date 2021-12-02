@@ -1,0 +1,15 @@
+.headerimage {
+    background-image:url(./images/ocean.gif);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 100px;
+    padding-bottom: 50px;
+}
+
+h1 {
+    color: white;
+}
+
+p {
+    color: white;
+}
